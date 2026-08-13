@@ -380,7 +380,7 @@
             </div>
 
             <div class="border-t border-gray-400 mt-12 pt-8 flex flex-col md:flex-row justify-between items-center">
-                <p class="text-sm">&copy; 2026 Surfside Media All rights reserved.</p>
+                <p class="text-sm">&copy; 2026 Saei International All rights reserved.</p>
                 <img src="{{ asset('assets/images/payment.png') }}" alt="Payment" class="mt-4 md:mt-0" />
             </div>
         </div>
